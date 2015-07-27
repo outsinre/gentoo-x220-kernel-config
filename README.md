@@ -7,7 +7,7 @@ Hardware:
 
 Kernel version
 
-1. 3.18.11-gentoo
-2. 4.0.0-gentoo
-3. 4.0.3-gentoo
-4. ...
+1. 4.0.5-gentoo-sources
+2. 4.1.3-e-sources
+
+Always keep difference kernel sources the same set of config options.
